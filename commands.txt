@@ -1,0 +1,16 @@
+cd         is change directory
+cd ..      is back directory
+cd ~/      home directory 
+ls         lists out all info in dir
+ls -l       lists out permissions
+ls | grep (a charecters goes here)     finds all files with that string 
+find ./ -name (thing to find in the entire dir)
+
+
+
+git clone (url) to clone repository 
+git status
+git add -A
+git status
+git commit -m 'commit message'
+git push
